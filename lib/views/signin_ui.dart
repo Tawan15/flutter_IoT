@@ -11,7 +11,7 @@ class _SigninUiState extends State<SigninUi> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey,
+      backgroundColor: Colors.grey
     );
   }
 }
